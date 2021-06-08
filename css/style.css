@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	background: #cecece url(../images/bg.png) no-repeat right top;
+}
+
+@font-face {
+  font-family: Itim;
+  src: url(../font/Itim.ttf);
+}
+
+.tieude{
+	margin-left: 40px;
+    color: black;
+    text-decoration: none;
+	font-family: Colonna MT;
+	font-size: 30pt;
+}
+
+.input{
+	text-align: center;
+	margin: 30px auto;
+}
+
+.submit{
+	height: 68px;
+	padding: 15px 30px;
+	background: #e3f2fd;
+	font-family: Forte;
+	font-weight:bold;
+	font-size: 20px;
+}
+
+.nhapten{
+	width: 600px;
+	height: 55px;
+	padding: 5px 10px;
+	background: #e3f2fd;
+	border: none;
+	font-family: Itim;
+	font-weight:bold;
+	font-size: 20px;
+}
+
+.tenthanhpho{
+	margin:10px 0;
+	padding: 5px 0;
+	text-align: center;
+	font-size: 60pt;
+	color: #143750;
+	font-family: Itim;
+}
+
+.thongtin {
+	text-align: center;
+	margin:5px 0;
+	font-size:40px;
+	color: #186094;
+	font-family: Itim;
+}
+
+table {
+	margin-left: 60px;
+	margin-right: 120px;
+	float: left;
+}
+img {
+	margin: 0px 230px;
+}
+
+.map {
+	margin-top: 100px;
+	width: 600px;
+	height: 400px !important;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #b6e0ff;
+	color: black;
+	text-align: center;
+	clear: both;
+}
